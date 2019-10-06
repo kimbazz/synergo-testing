@@ -15,7 +15,7 @@ namespace SynergoTesting.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page untuk adam yang suka, eh gak deh maksudnya pernah selingkuh.";
 
             return View();
         }
