@@ -15,14 +15,14 @@ namespace SynergoTesting.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page untuk adam yang suka, eh gak deh maksudnya pernah selingkuh.";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page untuk ratih dan adam.";
+            ViewBag.Message = "Your contact page.";
 
             return View();
         }
