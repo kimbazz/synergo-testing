@@ -23,7 +23,7 @@ namespace SynergoTesting.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-            ViewBag.NewVariable = "Hello Testing";
+            ViewBag.NewVariable = "From Hello Testing To Hello World";
 
             return View();
         }
